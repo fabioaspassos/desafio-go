@@ -9,3 +9,6 @@ Exemplo do uso do MultiStage do Docker
 
 ou rode baixando a imagem do docker hub
   docker run --rm fabioaspassos/go-hello:latest
+
+Endereco do Docker hub
+https://hub.docker.com/r/fabioaspassos/go-hello
